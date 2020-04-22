@@ -40,7 +40,7 @@
     </head>
     
     <body>
-    <!-- yay -->
+    
     <h3 id="hey">Hey, it's Izzy!</h3>
 <p>So this week's coding assignment is to write a blog about what we've learned so far, and also to create a business idea.</p>
 <p></p>
@@ -109,7 +109,4 @@
 <div id="idea">
 <h4>Business (kind of) Idea</h4>
 <!-- this is hard help -->
-<p>Art is a source of inspiration, more for some, less for others. It's also a a way to raise awareness to world problems, such as animal cruelty, animal and plant extinction, and pollution, as well as many other things. My business idea is to bring together a collection of artists from around the world to create art from all different mediums to sell and raise revenue to donate to charities and causes, as well as accept donations from the general public to donate.</div>
-        
-    </body>
-</html>
+<p>Art is a source of inspiration; more for some, less for others. It's also a way to raise awareness to world problems, such as animal cruelty, animal and plant extinction, and pollution, as well as <sem>many</em> other things. My business idea is to bring together a collection of artists from around the world to create art from all different mediums to sell and raise revenue to donate to charities and causes, as well as accept donations from the general public to donate.
