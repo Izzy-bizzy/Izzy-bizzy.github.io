@@ -104,7 +104,7 @@
 <h4></h4>
 <br>
 <p></p>
-<p>Needless to say, I've learned a lot. But programmers never stop learning! There's always something new that you didn't know before, and it's the same with almost anything you do.</p>
+<p>Needless to say, I've learned a lot. But programmers never stop learning! There's always something new that you didn't know before, and it's a lot of fun.</p>
 <br>
 <div id="idea">
 <h4>Business (kind of) Idea</h4>
