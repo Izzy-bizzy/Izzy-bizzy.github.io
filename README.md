@@ -4,7 +4,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Spin-off of "Challenge: Floating clouds"</title>
+        <title>Izzy's blog</title>
         <style>
             body{
                 background: rgb(202, 241, 252);
